@@ -1,8 +1,6 @@
 # CSC384 Fall2020
-<br />
-###
+### 
 This repo contains my work for the course, **CSC384: Introduction to Aritificial Intelligence** at University of Toronto. <br />
-
 - Assignment 1: Search
   - DFS
   - BFS
